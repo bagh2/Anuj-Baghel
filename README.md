@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/bagh2/Anuj-Baghel/blob/main/Anuj%20baghel.png" width="900" style="margin-left: 50px;">
+</p>
+
+
 
 <h1 align="center">Hi 👋, I'm Anuj Bharat Baghel</h1>
 <h3 align="center">Passionate about Data Science and Machine Learning </h3>
